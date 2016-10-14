@@ -13,8 +13,8 @@ ninf = inf0/total;
 nr = r0/total;
 
 % now initializing the values of beta(b) and gamma(g)
-b = 3.0;
-g = 1.0;
+b = 1.8;
+g = 0.9;
 z=[b g];
 
 
